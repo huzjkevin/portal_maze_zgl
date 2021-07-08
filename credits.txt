@@ -1,0 +1,23 @@
+- Oren Nayar diffuse lighting
+adapted from https://github.com/glslify/glsl-diffuse-oren-nayar by Mikola Lysenko, licensed unter MIT license (in file orennayar_license.txt)
+
+- FXAA
+adapted from the book "OpenGL ES 3.0 Cookbook" by Parminder Singh, pages 405 - 411
+
+- Textures
+downloaded from https://textures.pixel-furnace.com/, license information at https://textures.pixel-furnace.com/terms.php
+
+- tinygltf, a glTF library
+downloaded from https://github.com/syoyo/tinygltf by Syoyo Fujita, Aurélien Chatelain and many contributors, licensed under MIT license (in file tinygltf_license.txt)
+
+- floating robot model and textures (all files in data/models/floating_robot and its subdirectories)
+slightly modified from https://sketchfab.com/3d-models/floating-robot-20dd7f7bdc9a4c36aef491f12afa14d8 by Nada Elshorbagi (profile: https://sketchfab.com/nada.elshorbagi), texturing by Hajar Hamdy (profile: https://sketchfab.com/HajarHamdy), licensed under CC BY 4.0 (link: https://creativecommons.org/licenses/by/4.0/)
+
+- golden key model and textures (data/meshes/key1.obj, data/textures/key1.albedo.png, data/textures/key1.normal.png)
+slightly modified from https://sketchfab.com/3d-models/key-99ee9ff58fd14cb19309da81d0b098c9 by Frybrix (profile: https://sketchfab.com/Frybrix), licensed under CC BY 4.0 (link: https://creativecommons.org/licenses/by/4.0/)
+
+- bronze key model and textures (data/meshes/key2.obj, data/textures/key2.albedo.jpg, data/textures/key2.normal.jpg)
+slightly modified from https://sketchfab.com/3d-models/key-a4aca11a2259462f8735a60eead33962 by eucocker (profile: https://sketchfab.com/eucocker), licensed under CC BY 4.0 (link: https://creativecommons.org/licenses/by/4.0/)
+
+- fence model and textures (data/meshes/fence.obj, data/textures/fence.albedo.jpg, data/textures/fence.normal.jpg)
+slightly modified from https://sketchfab.com/3d-models/bar-fence-a5863714fcbe4343842d76c2bba21f62 by Sebastian Stabinger (profile: https://sketchfab.com/paethon), licensed under CC BY 4.0 (link: https://creativecommons.org/licenses/by/4.0/)
